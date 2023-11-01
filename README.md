@@ -1,6 +1,6 @@
 # AI_PHASE-5
 Data set link:https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis
-Market Basket Insights
+
 
 # Project Overview
 This project focuses on conducting market basket analysis to gain insights into customer purchasing patterns. Market basket analysis is a technique that identifies associations between products frequently purchased together, helping businesses make informed decisions about product placement, promotions, and inventory management.
